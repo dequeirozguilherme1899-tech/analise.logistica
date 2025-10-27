@@ -1,7 +1,6 @@
 # 🚚 Análise de Dados de Logística com Power BI
 
-Este mini-projeto apresenta uma abordagem prática e crítica à análise de dados logísticos utilizando o Power BI, seguindo o padrão de qualidade da Data Science Academy (DSA).  
-Diferente dos demais projetos, aqui o desafio foi **desconstruir um dashboard com erros** e reconstruí-lo de forma profissional, aplicando boas práticas de visualização, modelagem e análise de indicadores.
+Este projeto propõe uma abordagem prática e analítica para a exploração de dados logísticos fornecidos pela Data Science Academy, utilizando o Power BI como ferramenta principal para modelagem, visualização e extração de insights estratégicos.
 
 ---
 
@@ -19,8 +18,7 @@ Entregar aos tomadores de decisão uma visão clara e estratégica sobre:
 
 ## 🧠 O que foi desenvolvido
 
-- ✅ 1 Dashboard reconstruído com base em KPIs reais  
-- ✅ Mais de 10 elementos visuais  
+- ✅ Dashboard construido com base em KPIs reais  
 - ✅ Medidas DAX personalizadas  
 - ✅ Correções de erros e inconsistências nos dados  
 - ✅ Customizações e formatações avançadas
@@ -51,15 +49,16 @@ Entregar aos tomadores de decisão uma visão clara e estratégica sobre:
 
 ## 📷 Dashboard
 
-![Dashboard Logística](dashboard/dashboard-dados-logistica.png)
+![Dashboard Logística](Imagens/dashboard-dados-logistica.png)
 
 ---
 
 ## 📁 Arquivos do Repositório
 
-- `projeto4.pbix` — Arquivo principal do projeto no Power BI  
-- `README.md` — Documentação do projeto  
-- `dashboard/` — Imagens dos dashboards
+- `Dashboard/` — Arquivo principal do projeto no Power BI
+- `Data/` — Dados do projeto
+- `README.md` — Documentação
+- `imagens/` — Imagem do dashboard
 
 ---
 
