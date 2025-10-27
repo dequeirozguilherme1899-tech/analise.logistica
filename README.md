@@ -57,8 +57,8 @@ Entregar aos tomadores de decisão uma visão clara e estratégica sobre:
 
 - `Dashboard/` — Arquivo principal do projeto no Power BI
 - `Data/` — Dados do projeto
-- `README.md` — Documentação
 - `imagens/` — Imagem do dashboard
+- `README.md` — Documentação
 
 ---
 
